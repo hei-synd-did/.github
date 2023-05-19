@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <img src="./img/hei-en.png" alt="HEI-Vs Logo" width="350">
-  <img src="./img/synd-light.png" alt="Industrial Systems Logo" width="350">
+  <img src="./img/synd-light.png" alt="Industrial Systems Logo" width="200">
   <br>
   HEI-Vs Engineering School - DiD Digital Design
   <br>
