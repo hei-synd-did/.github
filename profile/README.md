@@ -46,8 +46,9 @@ Thank you for being a part of the HEI-Vs Engineering School GitHub organization.
 
 ## Find us on
 
-[hevs.ch](https://www.hevs.ch) &nbsp;&middot;&nbsp;
-Facebook [@hessovalais](https://www.facebook.com/hessovalais) &nbsp;&middot;&nbsp;
-Twitter [@hessovalais](https://twitter.com/hessovalais) &nbsp;&middot;&nbsp;
+[hevs.ch](https://www.hevs.ch/synd) &nbsp;&middot;&nbsp;
+LinkedIn [HEI-Vs](https://www.linkedin.com/showcase/school-of-engineering-valais-wallis/) &nbsp;&middot;&nbsp;
 LinkedIn [HES-SO Valais-Wallis](https://www.linkedin.com/groups/104343/) &nbsp;&middot;&nbsp;
 Youtube [HES-SO Valais-Wallis](https://www.youtube.com/user/HESSOVS)
+Twitter [@hessovalais](https://twitter.com/hessovalais) &nbsp;&middot;&nbsp;
+Facebook [@hessovalais](https://www.facebook.com/hessovalais) &nbsp;&middot;&nbsp;
